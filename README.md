@@ -1,6 +1,6 @@
 # Welcome
 
-This is atest
+This is a test
 
 ## Objective
 - ML
