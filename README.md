@@ -6,8 +6,7 @@ using Machine Learning for residual stress and microhardness prediction.
 ## Objective
 - Preprocess experimental DOE dataset (3³ Full Factorial Design)
 - Explore relationships between Deep Rolling parameters and responses
-- Build data pipeline for ML model training and optimization
-- Identify optimal parameters using statistical and ML approaches
+
 
 ## Dataset
 - 54 samples (27 combinations × 2 replications)
