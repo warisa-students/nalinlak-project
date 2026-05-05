@@ -21,13 +21,10 @@ using Machine Learning for residual stress and microhardness prediction.
 
 ## Tasks
 - Data loading and inspection
-- Handle missing values and outliers (IQR method)
 - Feature scaling and normalization (Z-score, Min-Max, coded -1/0/+1)
-- Exploratory Data Analysis (EDA)
 - Main Effects Plot per factor
 - Interaction Plots (A×B, A×C, B×C)
 - Correlation analysis between HV and RS
 - Linear Regression baseline (R², RMSE)
-- Train advanced ML models (Ridge, SVR, Random Forest, XGBoost)
 - ANOVA significance testing per factor
 - Response Surface / Contour plot optimization
